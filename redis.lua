@@ -853,7 +853,7 @@ function redis.undefine_command(name)
     undefine_command_impl(redis.commands, name)
 end
 
--- ############################################################################
+-- ###########################################################################
 
 -- Commands defined in this table do not take the precedence over
 -- methods defined in the client prototype table.
