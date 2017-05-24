@@ -76,7 +76,7 @@
 <br>
 <h2 dir="rtl">پشتیبانی
 <hr>
-<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ NajiTeam ♚ <a href="https://telegram.me/mr_jwker"> @i_naji </a> <a href="https://telegram.me/jwker_bot"> @Naji_MessengerRobot</a>
+<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ NajiTeam ♚ <a href="https://telegram.me/mr_jwker"> mr_jwker </a> <a href="https://telegram.me/jwker_bot"> jwker_bot</a>
 <br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
-<a href="https://telegram.me/jwker_team"> @i_advertiser</a>
+<a href="https://telegram.me/jwker_team"> jwker_team</a>
 </h4>
